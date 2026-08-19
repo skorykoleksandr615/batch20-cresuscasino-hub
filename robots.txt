@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cresus.casino/sitemap.xml
